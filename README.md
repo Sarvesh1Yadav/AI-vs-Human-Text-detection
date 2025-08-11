@@ -39,7 +39,7 @@ It compares traditional machine learning models with advanced deep learning appr
 ```bash
 git clone https://github.com/Sarvesh1Yadav/AI-vs-Human-Text-detection.git
 cd AI-vs-Human-Text-detection
-## 🛠 Install Dependencies
+2. ** Install Dependencies**
 
 Before running the notebook, install the required Python packages.  
 Run the following command in your terminal or command prompt:
