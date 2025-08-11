@@ -34,7 +34,12 @@ It compares traditional machine learning models with advanced deep learning appr
 
 ---
 
-
-
 ## 📂 How to Run
 1. **Clone the repository**
+```bash
+git clone https://github.com/Sarvesh1Yadav/AI-vs-Human-Text-detection.git
+cd AI-vs-Human-Text-detection
+
+
+
+
